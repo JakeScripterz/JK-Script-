@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NetlessMade/KJ-TO-JK/refs/heads/main/script.lua"))()
+task.wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JakeScripterz/Shinji/refs/heads/main/Shinji%20VFX"))()
